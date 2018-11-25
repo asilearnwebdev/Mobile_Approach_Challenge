@@ -12,12 +12,13 @@
 @media (min-width: 992px) {
     .column {
         background-color: #099723;
+        width:100%;
     }
 }
 
 @media (min-width: 768px) {
     .column {
-      margin: 10px;
+      margin:0;
     width: 30% 
     background-color: #e84610;
     }
